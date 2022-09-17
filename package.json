@@ -1,0 +1,34 @@
+{
+  "name": "hdwalletblockchain",
+  "version": "1.0.0",
+  "description": "Ether-Wallet",
+  "main": "serverBNB.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ranjeet Singh",
+  "license": "ISC",
+  "dependencies": {
+    "@polkadot/api": "^8.8.2",
+    "@polkadot/keyring": "^9.4.1",
+    "@polkadot/util-crypto": "^9.4.1",
+    "@solana/web3.js": "^1.44.0",
+    "axios": "^0.27.2",
+    "bip32": "^3.0.1",
+    "bip39": "^3.0.4",
+    "bitcoinjs-lib": "^6.0.1",
+    "bitcore-lib": "^8.25.30",
+    "body-parser": "^1.20.0",
+    "ethereumjs-tx": "^2.1.2",
+    "ethereumjs-wallet": "^1.0.2",
+    "ethers": "^5.6.6",
+    "express": "^4.18.1",
+    "i": "^0.3.7",
+    "npm": "^8.12.2",
+    "ripple-lib": "^1.10.1",
+    "swagger-jsdoc": "^6.2.1",
+    "swagger-ui-express": "^4.4.0",
+    "tiny-secp256k1": "^2.2.1",
+    "web3": "^1.7.3"
+  }
+}
